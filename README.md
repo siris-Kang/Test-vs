@@ -1,2 +1,2 @@
-<# Test-vs
+># Test-vs
 *with. visual-studio*
