@@ -13,7 +13,7 @@ cat file.txt //내용보기
 git add file.txt //add   
 git status   
 git commit -m '주석'   
-git remote add origin https://github.com/siris-Kand/Test-vs   
+git remote add origin https://github.com/siris-Kang/Test-vs   
 git remote //origin   
 git remote -v //확인   
 
