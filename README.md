@@ -17,4 +17,11 @@ git remote add origin https://github.com/siris-Kang/Test-vs
 git remote //origin   
 git remote -v //확인   
 
+
 git push -u origin main //문제!!!!   
+
+git fetch --all   
+git reset —hard origin/main   
+git pull origin main    
+텍스트 넣고
+git push origin main
